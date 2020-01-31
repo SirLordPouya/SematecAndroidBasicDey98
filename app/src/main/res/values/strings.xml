@@ -3,4 +3,6 @@
     <string name="save">SAVE</string>
     <string name="please_enter_your_age">Please enter your age</string>
     <string name="some_text">Some text</string>
+    <string name="first_quarter">First Quarter</string>
+    <string name="please_enter_your_name">please enter your name</string>
 </resources>
